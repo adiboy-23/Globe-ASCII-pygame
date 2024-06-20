@@ -10,10 +10,11 @@
   - install pygame locally either by making a virtual env(Linux and Mac) or directly(Windows users)
     
     - Virtual environment
+    - 
           ```
-              python3 -m venv <vir_env_name>
-              source ./<vir_env_name>/bin/activate
-              pip install pygame
+            python3 -m venv <vir_env_name>
+            source ./<vir_env_name>/bin/activate
+            pip install pygame
           ```
           
         - Locally in windows
