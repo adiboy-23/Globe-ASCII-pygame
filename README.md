@@ -11,11 +11,11 @@
     
     - Virtual environment
     - 
-          ```
+          
             python3 -m venv <vir_env_name>
             source ./<vir_env_name>/bin/activate
             pip install pygame
-          ```
+          
           
         - Locally in windows
           
