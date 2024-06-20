@@ -8,7 +8,8 @@
     ```
 
   - install pygame locally either by making a virtual env(Linux and Mac) or directly(Windows users)
-        - Virtual environment
+    
+    - Virtual environment
         - 
           ```
             python3 -m venv <vir_env_name>
